@@ -4,9 +4,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=I%20am%20a%20computer%20scientist%20%20student;I%20%20am%20still%20learning%20about%20the%20field%20i%20would%20want%20to%20major%20in%20xo" alt="Typing headlines" />
-</p>
+
 
 ### 🚀 About Me
 
